@@ -33,5 +33,5 @@ api = '12346788:AAGpXLK***********upBY1ISWjWrqTeI3erA23c'
 bot = telebot.TeleBot(api)
 ```
 
-### Kunci API
+### RUN
 Jika bash atau shell mengatakan "bot start running" maka artinya Bot telah berjalan dan kamu sudah dapat berkomunikasi dengan Chat GPT melalui Chat Telegram
