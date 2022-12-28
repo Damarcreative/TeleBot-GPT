@@ -24,12 +24,12 @@ pip install pyTelegramBotAPI
 kamu membutuhkan kunci API dari open ai sebagai protokol untuk berkomuniksi dengan Open AI GPT
 Contoh:
 ```sh
-openai.api_key = "sk-6frzPijQmfw********29A3jd4WT0LTS5qV"
+openai.api_key = "API_KEY"
 ```
 dan kamu juga membutuhkan kunci API dari telegram agar bot di telegram dapat berkomunikasi dengan kode program ini
 
 ```sh
-api = '12346788:AAGpXLK***********upBY1ISWjWrqTeI3erA23c'
+api = 'API_KEY'
 bot = telebot.TeleBot(api)
 ```
 
