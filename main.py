@@ -1,6 +1,7 @@
 import telebot
-from telebot import types
 import openai
+
+from telebot import types
 
 openai.api_key = "key_API"
 api = "Key_API"
